@@ -6,10 +6,10 @@
     git clone https://github.com/MarkerViktor/ImprovadoTestTask.git
     cd ImprovadoTestTask
     ```
-2. Выполнить соответствующий скрипт (`basic.py` или `advance.py`) при помощи `Python 3.9`, задав позиционными аргументами 1-м – название файла-результата, 2-м – дирректорию, содержащую файлы с данными.
+2. Выполнить соответствующий скрипт (`basic.py` или `advanced.py`) при помощи `Python 3.9`, задав позиционными аргументами 1-м – название файла-результата, 2-м – дирректорию, содержащую файлы с данными.
     ```
     python basic.py ./basic_results.tsv ./data
-    python advance.py ./advance_results.tsv ./data
+    python advanced.py ./advance_results.tsv ./data
     ```
   
 ### Поддержка файлов иных форматов
